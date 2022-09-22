@@ -13,7 +13,8 @@
 ## Проверка состояния репозитория
     git status 
 
-## Задаем имя пользователя 
-Чтобы привязать коммиты к вашему имени.
+## Задаем имя пользователя и email
+Чтобы привязать коммиты к вашему имени и вашей почте.
 
-    git config --global user.name "Add user name"
+    git config --global user.name "Add user name" // добавляет имя 
+    git config --global user.email "dev@tararoutray.com" // добавляет почту
