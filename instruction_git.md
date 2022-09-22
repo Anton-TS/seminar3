@@ -16,5 +16,5 @@
 ## Задаем имя пользователя и email
 Чтобы привязать коммиты к вашему имени и вашей почте.
 
-    git config --global user.name "Add user name" // добавляет имя 
-    git config --global user.email "dev@tararoutray.com" // добавляет почту
+    git config --global user.name "Add_user_name" // добавляет имя 
+    git config --global user.email "Add_user_email.com" // добавляет почту
